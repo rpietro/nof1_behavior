@@ -1,6 +1,8 @@
 # A randomized N-of-1 trial comparing {{}} in the education of {{condition}}: A personalized, semantic and reproducible study
 
 
+<!-- 1. experience (satisfaction) 2. alteração prática clínica 3. conhecimento 4. engagement -->
+
 <!-- 
 diferentes construtos associados a um topico de um curso
 CAT
